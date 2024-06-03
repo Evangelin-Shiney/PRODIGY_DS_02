@@ -1,1 +1,2 @@
-# PRODIGY_DS_02
+This file has the dataset Titanic which tells how many people survived,about the Pclass etc...
+This contains Data cleaning and pre=processing and Exploratory Data Analysis of this dataset. Also patterns have been analysed. 
